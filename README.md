@@ -1,5 +1,5 @@
 # homebrew-snap
-Homebrew formula for [snap CLI](https://github.com/snapmaster-io/snapmaster/snap)
+Homebrew formula for [snap CLI](https://github.com/snapmaster-io/snap)
 
 ## Installing `snap` using homebrew
 
