@@ -3,7 +3,7 @@ Homebrew formula for [snap CLI](https://github.com/snapmaster-io/snap)
 
 ## Installing `snap` using homebrew
 
-`brew tap snapmaster-io/snap && brew install snap`
+`$ brew tap snapmaster-io/snap && brew install snap`
 
 ## stage a new version
 
@@ -13,3 +13,6 @@ To publish a new version, update the `version` and `sha256` properties in `snap.
 
 The new version is now ready to install using `brew`!
 
+`$ brew tap snapmaster-io/snap`
+
+`$ brew upgrade snap`
