@@ -2,7 +2,7 @@ class Snap < Formula
   desc "A command-line tool for managing snaps - workflows that connect triggers to actions"
   homepage "https://github.com/snapmaster-io/snap"
   url "https://github.com/snapmaster-io/homebrew-snap/raw/master/archive/snap"
-  sha256 "6fbc0ea28f11865282e0b97d3e1a4c08fc18ef4b814f75317081df70e360cc81"
+  sha256 "3a613662109e533eace3005ff8e59470b9f37fed13fb41b712ab1ae113862cd8"
   version "0.3.2"
 
   bottle :unneeded
