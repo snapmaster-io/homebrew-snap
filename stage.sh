@@ -4,6 +4,7 @@
 git rm archive/*
 
 # copy the compiled binary
+mkdir archive
 cp $GOPATH/src/github.com/snapmaster-io/snap/bin/snap ./archive
 
 # get version string
